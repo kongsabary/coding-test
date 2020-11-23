@@ -4,3 +4,4 @@
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test/Test02.java">test02 - 직사각형 별찍기</a>
 * test03 - 서울에서 김서방 찾기
 * test04 - 역순 정렬하기
+* test05 - 모든 레코드 조회하기
