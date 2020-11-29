@@ -7,5 +7,5 @@
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test/Test05">test05 - 모든 레코드 조회하기</a>  
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test/Test06">test06 - 어린 동물 찾기</a>  
 * test07 - 수박수박수박수박수박수?
-* test08 - 
-* test09 - 
+* test08 -  
+* test09 -  
