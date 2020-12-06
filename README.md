@@ -8,5 +8,5 @@
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test/Test06">test06 - 어린 동물 찾기</a>  
 * test07 - 수박수박수박수박수박수?
 * test08 -  
-* test09 -
-* test10 -
+* test09 - 
+* test10 - 
