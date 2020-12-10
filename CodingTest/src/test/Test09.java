@@ -2,6 +2,7 @@ package test;
 
 public class Test09 {
 	public static void main(String[] args) {
+		// 평균 구하기
 		int[] arr = {5,5};
 		soultion(arr);
 		System.out.println(soultion(arr));
