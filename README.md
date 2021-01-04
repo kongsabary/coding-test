@@ -15,5 +15,5 @@
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test13 - 이름이 없는 동물의 아이디</a>
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test14 - 이름이 있는 동물의 아이디</a>
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test15 - 핸드폰 번호 가리기</a>
-* <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test16 - </a>
-* <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test17 - </a>
+* <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test16 - </a>  
+* <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test17 - </a>  
