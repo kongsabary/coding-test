@@ -6,7 +6,7 @@
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test/Test04">test04 - 역순 정렬하기</a>  
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test/Test05">test05 - 모든 레코드 조회하기</a>  
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test/Test06">test06 - 어린 동물 찾기</a>  
-* <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test/Test07.java">test07 - 두 정수 사이의 합</a>
+* <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test/Test07.java">test07 - 두 정수 사이</a>
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test/Test08">test08 - 아픈 동물 찾기</a>
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test/Test09.java">test09 - 평균 구하기</a>
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test/Test10">test10 - 동물 아이디와 이름</a>
@@ -15,3 +15,4 @@
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test13 - 이름이 없는 동물의 아이디</a>
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test14 - 이름이 있는 동물의 아이디</a>
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test15 - 핸드폰 번호 가리기</a>
+* <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test15 - 문자열을 정수로 바꾸기</a>
