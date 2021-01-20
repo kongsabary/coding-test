@@ -16,3 +16,4 @@
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test14 - 이름이 있는 동물의 아이디</a>
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test15 - 핸드폰 번호 가리기</a>
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test15 - 문자열을 정수로 바꾸기</a>
+* <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test16</a>
