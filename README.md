@@ -17,3 +17,4 @@
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test15 - 핸드폰 번호 가리기</a>
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test15 - 문자열을 정수로 바꾸기</a>
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test16 - 가운데 글자 가져오기</a>
+* <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test17 - 같은 숫자는 싫어</a>
