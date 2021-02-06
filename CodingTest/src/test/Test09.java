@@ -4,11 +4,11 @@ public class Test09 {
 	public static void main(String[] args) {
 		// 평균 구하기
 		int[] arr = {5,5};
-		soultion(arr);
-		System.out.println(soultion(arr));
+		solution(arr);
+		System.out.println(solution(arr));
 	}
 	
-	public static int soultion(int[] arr) {
+	public static int solution(int[] arr) {
 		double answer = 0;
         if(1<=arr.length && arr.length<100) {
 			int sum = 0;
