@@ -19,3 +19,6 @@
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test17 - 문자열을 정수로 바꾸기</a>
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test18 - 가운데 글자 가져오기</a>
 * <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test19 - 같은 숫자는 싫어</a>
+* <a href="https://github.com/kongsabary/coding-test/blob/main/CodingTest/src/test">test20 - 문자열 다루기 기본</a>
+
+
